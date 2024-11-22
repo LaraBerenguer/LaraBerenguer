@@ -17,4 +17,6 @@ You can reach me at:
 
 😃 [My Linkedin](https://www.linkedin.com/in/lara-berenguer-calvo/)
 
+Check my repositories and contact me if you need anything. Thanks for stopping by!
+
 
