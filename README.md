@@ -17,7 +17,29 @@
 
 🌱 I’m currently learning:
 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+
+<br>
+
+## 👩🏻‍💻 My projects 
+
+### Character Creator 🔗 [Demo](https://character-creator-rho.vercel.app/) | [Repository](https://github.com/LaraBerenguer/character-creator)
+
+Character Creator is a fun tool to create the personality of your next tabletop character. You can choose or randomize four aspects of your personality: trait, bond, flaw and ideal. Also, if you need more inspiration, you can generate a small background to give life to your character.
+
+This is a fullstack project made with React, Typescript, Nodejs, Express, Sequelize and Postgresql. I used Tailwind CSS and DaisyUI for styling. Authentication is handled with bcrypt and JWT. 
+
+### Mini paint 🔗 [Demo](https://mini-paint-theta.vercel.app/) | [Repository](https://github.com/LaraBerenguer/mini-paint)
+
+A canvas where you can... well, paint! You can also save your drawing if you like it.
+
+This is a fun little project made with Typescript vanilla, styled with CSS. 
+
+### Find Games 🔗 [Demo](https://findgames-three.vercel.app/) | [Repository](https://github.com/LaraBerenguer/nodejs-express-mysql)
+
+Find Games is a platform for scheduling and managing tabletop gaming sessions. You can create users, events, manage locations, and coordinate with other players.
+
+It's a fullstack app made with React + Vite. Frontend includes state management using Context API. Backend includes Nodejs, Express and database management with Sequelize and Postgresql. 
 
 <br>
  
