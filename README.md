@@ -39,7 +39,7 @@ This is a fun little project made with Typescript vanilla, styled with CSS.
 
 Find Games is a platform for scheduling and managing tabletop gaming sessions. You can create users, events, manage locations, and coordinate with other players.
 
-It's a fullstack app made with React + Vite. Frontend includes state management using Context API. Backend includes Nodejs, Express and database management with Sequelize and Postgresql. 
+It's a fullstack app made with React + Vite. Frontend includes state management using Context API. I used FullCalendar, Chart.js and Mapbox GL plugins. Backend includes Nodejs, Express and database management with Sequelize and Postgresql. 
 
 <br>
  
