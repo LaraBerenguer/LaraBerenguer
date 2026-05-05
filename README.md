@@ -27,19 +27,25 @@
 
 Character Creator is a fun tool to create the personality of your next tabletop character. You can choose or randomize four aspects of your personality: trait, bond, flaw and ideal. Also, if you need more inspiration, you can generate a small background to give life to your character.
 
-This is a fullstack project made with React, Typescript, Nodejs, Express, Sequelize and Postgresql. I used Tailwind CSS and DaisyUI for styling. Authentication is handled with bcrypt and JWT. 
+This is a fullstack project made with React, Typescript, Nodejs, Express, Sequelize and Postgresql. I used Tailwind CSS and DaisyUI for styling. Authentication is handled with bcrypt and JWT.
 
 ### Mini paint 🔗 [Demo](https://mini-paint-theta.vercel.app/) | [Repository](https://github.com/LaraBerenguer/mini-paint)
 
 A canvas where you can... well, paint! You can also save your drawing if you like it.
 
-This is a fun little project made with Typescript vanilla, styled with CSS. 
+This is a fun little project made with Typescript vanilla, styled with CSS.
 
-### Find Games 🔗 [Demo](https://findgames-three.vercel.app/) | [Repository](https://github.com/LaraBerenguer/nodejs-express-mysql)
+<br>
 
-Find Games is a platform for scheduling and managing tabletop gaming sessions. You can create users, events, manage locations, and coordinate with other players.
+## 👯 Collaborative projects 
 
-It's a fullstack app made with React + Vite. Frontend includes state management using Context API. I used FullCalendar, Chart.js and Mapbox GL plugins. Backend includes Nodejs, Express and database management with Sequelize and Postgresql. 
+### SheHub 🔗 [Demo](https://www.shehub.es/) | [Design System](https://fifty-shore-32521227.figma.site/)
+
+I collaborated on SheHub, a platform that connects women in tech to real-world projects and cross-functional teams, developing React components for the Design System using Typescript and cva. It was an awesome project and I met so many inspiring women!
+
+### ITA Wiki 🔗 [Demo](https://ita-wiki-frontend-production.up.railway.app/) | [Repository](https://github.com/IT-Academy-BCN/ita-wiki-frontend)
+
+I participated in a React and Typescript internship on an internal project at Barcelona Activa, developing a free wiki for students.
 
 <br>
  
